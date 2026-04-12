@@ -2,6 +2,31 @@
   "entries": [
     {
       "tag": "GMAIL",
+      "ts": "2026-04-13 07:42:44",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-13 07:42:44",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-13 07:42:44",
+      "message": "ポーリング開始 (前回: 2026/04/13 07:37)"
+    },
+    {
+      "tag": "ORG_STATE",
+      "ts": "2026-04-13 07:40:43",
+      "message": "更新完了"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-13 07:38:01",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "GMAIL",
       "ts": "2026-04-13 07:37:43",
       "message": "ポーリング完了 (新着なし)"
     },
@@ -224,31 +249,6 @@
       "tag": "BRIEFING",
       "ts": "2026-04-13 07:00:01",
       "message": "ブリーフィング生成完了: /Users/matsu/AIagent/claude/automations/reports/output/briefing_20260413.md"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-13 07:00:01",
-      "message": "ブリーフィング生成開始"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-13 07:00:01",
-      "message": "改革ループスキャン完了"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-13 07:00:01",
-      "message": "改革ループスキャン失敗"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-13 07:00:01",
-      "message": "改革ループスキャン開始"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-13 07:00:01",
-      "message": "Slack確認完了"
     }
   ]
 }
