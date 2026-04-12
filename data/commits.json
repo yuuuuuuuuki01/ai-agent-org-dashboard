@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "e79cdea",
+      "message": "Add GitHub Pages dashboard + parallel branch executor",
+      "date": "2026-04-12"
+    },
+    {
       "hash": "0104835",
       "message": "Add email style learning + wire style guide into triage",
       "date": "2026-04-12"
@@ -68,11 +73,6 @@
     {
       "hash": "d5dba85",
       "message": "Add statistics, election, registry, patrol, and dev project tracking",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "a839f12",
-      "message": "Organization founding: board minutes, onboarding, dev projects",
       "date": "2026-04-12"
     }
   ]
