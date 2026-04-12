@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "2f76110",
+      "message": "Add media pipeline: 律音(Rizune) VTuber character + X/Note/Sub-Org automation",
+      "date": "2026-04-12"
+    },
+    {
       "hash": "fc31782",
       "message": "Launch: 法治AI実験記録 ニュースレター（自律発行システム）",
       "date": "2026-04-12"
@@ -68,11 +73,6 @@
     {
       "hash": "7b6e983",
       "message": "Add delegation wrapper, portfolio reports, and board agenda (Gemini + Codex)",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "ebf447c",
-      "message": "Bulk department build-out and statistics automation (Gemini + Codex)",
       "date": "2026-04-12"
     }
   ]
