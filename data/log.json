@@ -1,0 +1,254 @@
+{
+  "entries": [
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:57:24",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:57:24",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:57:24",
+      "message": "ポーリング開始 (前回: 2026/04/12 11:52)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:52:23",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:52:23",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:52:23",
+      "message": "ポーリング開始 (前回: 2026/04/12 11:47)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:47:22",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:47:22",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:47:22",
+      "message": "ポーリング開始 (前回: 2026/04/12 11:42)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:42:21",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:42:21",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:42:20",
+      "message": "ポーリング開始 (前回: 2026/04/12 11:37)"
+    },
+    {
+      "tag": "LEARN",
+      "ts": "2026-04-12 11:39:52",
+      "message": "スタイルガイド生成完了: /Library/AIagent/claude/core/email_style_guide.md"
+    },
+    {
+      "tag": "LEARN",
+      "ts": "2026-04-12 11:39:26",
+      "message": "Gemini解析: 送信50件 受信30件"
+    },
+    {
+      "tag": "LEARN",
+      "ts": "2026-04-12 11:39:07",
+      "message": "スタイル解析開始"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:37:20",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:37:20",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:37:19",
+      "message": "ポーリング開始 (前回: 2026/04/12 11:34)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:34:52",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:34:52",
+      "message": "下書き作成: 0件 (URGENT: 0件)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:34:33",
+      "message": "未読メール取得: 3件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:34:33",
+      "message": "ポーリング開始 (前回: 2026/04/12 11:07)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:32:19",
+      "message": "Gmail API 未認証 - セットアップ手順: python3 /Library/AIagent/claude/automations/email/gmail_oauth_setup.py"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:27:19",
+      "message": "Gmail API 未認証 - セットアップ手順: python3 /Library/AIagent/claude/automations/email/gmail_oauth_setup.py"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:22:19",
+      "message": "Gmail API 未認証 - セットアップ手順: python3 /Library/AIagent/claude/automations/email/gmail_oauth_setup.py"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:17:19",
+      "message": "Gmail API 未認証 - セットアップ手順: python3 /Library/AIagent/claude/automations/email/gmail_oauth_setup.py"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:12:19",
+      "message": "Gmail API 未認証 - セットアップ手順: python3 /Library/AIagent/claude/automations/email/gmail_oauth_setup.py"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:07:00",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:07:00",
+      "message": "JSON解析エラー: /Library/AIagent/claude/automations/email/queue/raw_20260412_110700.json に生データ保存"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:07:00",
+      "message": "ポーリング開始 (前回チェック: 2026/04/12 11:06)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:06:27",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:06:27",
+      "message": "JSON解析エラー: /Library/AIagent/claude/automations/email/queue/raw_20260412_110627.json に生データ保存"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:06:27",
+      "message": "ポーリング開始 (前回チェック: 2026/04/12 11:02)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:01:42",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:01:42",
+      "message": "JSON解析エラー: /Library/AIagent/claude/automations/email/queue/raw_20260412_110142.json に生データ保存"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 11:01:42",
+      "message": "ポーリング開始 (前回チェック: 2026/04/12 10:56)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:56:39",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:56:39",
+      "message": "Claude CLI エラー"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:56:39",
+      "message": "ポーリング開始 (前回チェック: 2026/04/12 10:51)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:51:37",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:51:37",
+      "message": "Claude CLI エラー"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:51:37",
+      "message": "ポーリング開始 (前回チェック: 2026/04/12 10:46)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:46:33",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:46:33",
+      "message": "Claude CLI エラー"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:46:33",
+      "message": "ポーリング開始 (前回チェック: 2026/04/12 10:41)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:41:28",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:41:28",
+      "message": "Claude CLI エラー"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:41:28",
+      "message": "ポーリング開始 (前回チェック: 2026/04/12 10:36)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:36:24",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 10:36:24",
+      "message": "Claude CLI エラー"
+    }
+  ]
+}

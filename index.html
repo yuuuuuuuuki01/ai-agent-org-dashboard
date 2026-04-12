@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude AI Organization Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Tailwind defaults override for dark theme */
+    body { background-color: #0d1117; color: #c9d1d9; }
+    h3 { font-size: 14px; font-weight: 600; border-bottom: 1px solid #30363d; padding-bottom: 4px; color: #8b949e; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <div class="container mx-auto p-4">
+    <header class="flex items-center justify-between mb-6 border-b border-[#30363d] pb-4">
+      <div class="flex items-center space-x-2">
+        <div class="w-8 h-8 bg-[#58a6ff] rounded-full flex items-center justify-center text-black font-bold">C</div>
+        <h1 class="text-xl font-semibold">AI Organization Dashboard</h1>
+      </div>
+      <div class="text-xs text-[#8b949e]">
+        GitHub Pages Live View
+      </div>
+    </header>
+
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
+      <!-- Left Column -->
+      <div class="space-y-4">
+        <section class="card">
+          <h2>組織ステータス</h2>
+          <div id="org-status">読み込み中...</div>
+        </section>
+        
+        <section class="card">
+          <h2>予定</h2>
+          <div id="schedule">読み込み中...</div>
+        </section>
+      </div>
+
+      <!-- Middle Column -->
+      <div class="lg:col-span-1">
+        <section class="card h-full">
+          <h2>承認待ちタスク</h2>
+          <div id="pending-tasks">読み込み中...</div>
+        </section>
+      </div>
+
+      <!-- Right Column -->
+      <div class="space-y-4">
+        <section class="card">
+          <h2>直近ログ</h2>
+          <div id="recent-logs" class="space-y-1">読み込み中...</div>
+        </section>
+
+        <section class="card">
+          <h2>Git活動</h2>
+          <div id="git-activity">読み込み中...</div>
+        </section>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
