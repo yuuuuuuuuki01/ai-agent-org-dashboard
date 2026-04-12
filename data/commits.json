@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "e87f30d",
+      "message": "Implement script-first doctrine + orchestrator for token reduction",
+      "date": "2026-04-12"
+    },
+    {
       "hash": "e79cdea",
       "message": "Add GitHub Pages dashboard + parallel branch executor",
       "date": "2026-04-12"
@@ -68,11 +73,6 @@
     {
       "hash": "ce442b8",
       "message": "Wire provisional Directors and Portfolio PMs to department/portfolio files",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "d5dba85",
-      "message": "Add statistics, election, registry, patrol, and dev project tracking",
       "date": "2026-04-12"
     }
   ]

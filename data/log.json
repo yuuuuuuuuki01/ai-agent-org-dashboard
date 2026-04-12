@@ -2,6 +2,36 @@
   "entries": [
     {
       "tag": "GMAIL",
+      "ts": "2026-04-12 12:07:26",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 12:07:26",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 12:07:26",
+      "message": "ポーリング開始 (前回: 2026/04/12 12:02)"
+    },
+    {
+      "tag": "HANDLER",
+      "ts": "2026-04-12 12:06:46",
+      "message": "zohocrm | ZohoCRM FAX通知処理完了: ZohoCRMFAX通知-北村商店"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-12 12:06:46",
+      "message": "スクリプト実行: gmail:zohocrm-fax → automations/handlers/gmail_zohocrm.sh"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-12 12:05:01",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "GMAIL",
       "ts": "2026-04-12 12:02:25",
       "message": "ポーリング完了 (新着なし)"
     },
@@ -218,36 +248,6 @@
     {
       "tag": "GMAIL",
       "ts": "2026-04-12 10:51:37",
-      "message": "Claude CLI エラー"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 10:51:37",
-      "message": "ポーリング開始 (前回チェック: 2026/04/12 10:46)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 10:46:33",
-      "message": "ポーリング完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 10:46:33",
-      "message": "Claude CLI エラー"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 10:46:33",
-      "message": "ポーリング開始 (前回チェック: 2026/04/12 10:41)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 10:41:28",
-      "message": "ポーリング完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 10:41:28",
       "message": "Claude CLI エラー"
     }
   ]

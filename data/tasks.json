@@ -1,4 +1,10 @@
 {
-  "email_drafts": [],
+  "email_drafts": [
+    {
+      "file": "draft_20260412_120646_normal_sakagura.md",
+      "priority": "NORMAL",
+      "subject": "RE: ZohoCRMFAX通知-北村商店"
+    }
+  ],
   "proposals": []
 }
