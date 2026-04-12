@@ -2,6 +2,31 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-04-12 12:29:09",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 12:27:28",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 12:27:28",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-12 12:27:28",
+      "message": "ポーリング開始 (前回: 2026/04/12 12:22)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-12 12:25:05",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-04-12 12:24:08",
       "message": "更新完了"
     },
@@ -224,31 +249,6 @@
       "tag": "GMAIL",
       "ts": "2026-04-12 11:34:52",
       "message": "下書き作成: 0件 (URGENT: 0件)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 11:34:33",
-      "message": "未読メール取得: 3件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 11:34:33",
-      "message": "ポーリング開始 (前回: 2026/04/12 11:07)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 11:32:19",
-      "message": "Gmail API 未認証 - セットアップ手順: python3 /Library/AIagent/claude/automations/email/gmail_oauth_setup.py"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 11:27:19",
-      "message": "Gmail API 未認証 - セットアップ手順: python3 /Library/AIagent/claude/automations/email/gmail_oauth_setup.py"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-12 11:22:19",
-      "message": "Gmail API 未認証 - セットアップ手順: python3 /Library/AIagent/claude/automations/email/gmail_oauth_setup.py"
     }
   ]
 }
