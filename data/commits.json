@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "fc31782",
+      "message": "Launch: 法治AI実験記録 ニュースレター（自律発行システム）",
+      "date": "2026-04-12"
+    },
+    {
       "hash": "2751e57",
       "message": "Fix: remove sensitive key files from git, update .gitignore",
       "date": "2026-04-12"
@@ -68,11 +73,6 @@
     {
       "hash": "ebf447c",
       "message": "Bulk department build-out and statistics automation (Gemini + Codex)",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "cde4858",
-      "message": "ai_usage.md: delegate logs/minutes/reports/archives to Gemini",
       "date": "2026-04-12"
     }
   ]
