@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "72382b6",
+      "message": "Define organizational identity via git continuity (第15-17条)",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "2f76110",
       "message": "Add media pipeline: 律音(Rizune) VTuber character + X/Note/Sub-Org automation",
       "date": "2026-04-12"
@@ -68,11 +73,6 @@
     {
       "hash": "a39657b",
       "message": "Add visual monitoring, morning briefing, and automation roadmap",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "7b6e983",
-      "message": "Add delegation wrapper, portfolio reports, and board agenda (Gemini + Codex)",
       "date": "2026-04-12"
     }
   ]
