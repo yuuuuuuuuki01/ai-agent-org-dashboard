@@ -7,22 +7,22 @@
     },
     {
       "label": "morning-briefing",
-      "next": "3時間3分後",
+      "next": "2時間58分後",
       "description": "朝ブリーフィング"
     },
     {
       "label": "collect-stats",
-      "next": "19時間3分後",
+      "next": "18時間58分後",
       "description": "統計収集"
     },
     {
       "label": "weekly-report",
-      "next": "5時間3分後",
+      "next": "4時間58分後",
       "description": "週次レポート"
     },
     {
       "label": "gmail-learn",
-      "next": "2時間33分後",
+      "next": "2時間28分後",
       "description": "スタイル再学習"
     }
   ]
