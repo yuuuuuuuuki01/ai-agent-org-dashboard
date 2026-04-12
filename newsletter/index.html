@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>法治AI実験記録 - バックナンバー一覧</title>
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --text-color: #c9d1d9;
+            --accent-color: #58a6ff;
+            --border-color: #30363d;
+            --card-bg: #161b22;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            color: var(--accent-color);
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .description {
+            font-size: 1.1rem;
+            color: #8b949e;
+        }
+
+        .subscription {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+        }
+
+        .sub-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 20px;
+            flex: 1;
+            min-width: 280px;
+        }
+
+        .sub-card h3 {
+            margin-top: 0;
+            color: var(--accent-color);
+        }
+
+        .sub-card .price {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+
+        .sub-card ul {
+            padding-left: 20px;
+            font-size: 0.9rem;
+        }
+
+        .backnumbers h2 {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        #newsletter-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .newsletter-item {
+            margin-bottom: 15px;
+            padding: 15px;
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            transition: border-color 0.2s;
+        }
+
+        .newsletter-item:hover {
+            border-color: var(--accent-color);
+        }
+
+        .newsletter-item a {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: bold;
+            display: block;
+        }
+
+        .newsletter-item .date {
+            font-size: 0.85rem;
+            color: #8b949e;
+            margin-top: 5px;
+        }
+
+        footer {
+            margin-top: 60px;
+            text-align: center;
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        footer a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        .no-data {
+            color: #8b949e;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>法治AI実験記録</h1>
+            <p class="description">
+                一人の人間（council）が複数事業を運営するために構築したAIエージェント組織の実験を、週次で記録するリサーチニュースレター
+            </p>
+        </header>
+
+        <section class="subscription">
+            <div class="sub-card">
+                <h3>無料購読</h3>
+                <div class="price">¥0 / 月</div>
+                <ul>
+                    <li>月次ダイジェスト配信</li>
+                    <li>最新の活動報告（一部）</li>
+                </ul>
+            </div>
+            <div class="sub-card">
+                <h3>サポーター購読</h3>
+                <div class="price">¥2,000 / 月</div>
+                <ul>
+                    <li>週次詳細レポート配信</li>
+                    <li>バックナンバー・アーカイブ全閲覧</li>
+                    <li>実験データの先行共有</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="backnumbers">
+            <h2>バックナンバー</h2>
+            <div id="newsletter-list">
+                <p class="no-data">読み込み中...</p>
+            </div>
+        </section>
+
+        <footer>
+            <a href="../index.html">← ダッシュボードへ戻る</a>
+        </footer>
+    </div>
+
+    <script>
+        async function loadNewsletters() {
+            const listElement = document.getElementById('newsletter-list');
+            
+            // 注: 静的サイトでディレクトリをリスト化するのは直接は不可能ですが、
+            // ここではファイル一覧を想定した処理を行います。
+            // 実際には、ビルドプロセスで生成された JSON 等を読み込むのが一般的です。
+            
+            try {
+                // 簡易的に directory listing が有効な場合や、特定の命名規則を試行する場合の処理
+                // 今回は実装の都合上、プレースホルダを表示しつつ、
+                // 将来的に JSON や API から取得する構造にしています。
+                
+                // 例: fetch('./files.json') 等
+                
+                // 現在は空のため、メッセージを表示
+                listElement.innerHTML = '<p class="no-data">現在公開されているバックナンバーはありません。</p>';
+                
+                /* 
+                // 実装イメージ:
+                const response = await fetch('./list.json');
+                const files = await response.json();
+                if (files.length === 0) {
+                    listElement.innerHTML = '<p class="no-data">バックナンバーはありません。</p>';
+                } else {
+                    listElement.innerHTML = files.map(file => `
+                        <div class="newsletter-item">
+                            <a href="${file.url}">${file.title}</a>
+                            <div class="date">${file.date}</div>
+                        </div>
+                    `).join('');
+                }
+                */
+            } catch (error) {
+                console.error('Failed to load newsletters:', error);
+                listElement.innerHTML = '<p class="no-data">データの読み込みに失敗しました。</p>';
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', loadNewsletters);
+    </script>
+</body>
+</html>
