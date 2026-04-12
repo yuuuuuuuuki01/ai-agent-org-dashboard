@@ -1,6 +1,16 @@
 {
   "commits": [
     {
+      "hash": "2751e57",
+      "message": "Fix: remove sensitive key files from git, update .gitignore",
+      "date": "2026-04-12"
+    },
+    {
+      "hash": "98140d3",
+      "message": "Token reduction: 5-layer compression pipeline",
+      "date": "2026-04-12"
+    },
+    {
       "hash": "e87f30d",
       "message": "Implement script-first doctrine + orchestrator for token reduction",
       "date": "2026-04-12"
@@ -63,16 +73,6 @@
     {
       "hash": "cde4858",
       "message": "ai_usage.md: delegate logs/minutes/reports/archives to Gemini",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "51e6989",
-      "message": "Initialize judiciary, media, and academia operational files",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "ce442b8",
-      "message": "Wire provisional Directors and Portfolio PMs to department/portfolio files",
       "date": "2026-04-12"
     }
   ]
