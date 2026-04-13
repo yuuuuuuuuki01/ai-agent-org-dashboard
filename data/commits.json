@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "2fb1c8a",
+      "message": "Add sales automation pipeline: Maps → Gemini analysis → outreach drafts",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "7823420",
       "message": "pre_prompt v3 + dept format: org activates on every question",
       "date": "2026-04-13"
@@ -68,11 +73,6 @@
     {
       "hash": "fdf16d5",
       "message": "Implement autonomous self-improvement loops A/B/C/D",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "3b15fd0",
-      "message": "Update portfolio company names and add AKSH architecture portfolio",
       "date": "2026-04-12"
     }
   ]
