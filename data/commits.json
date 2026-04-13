@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "7823420",
+      "message": "pre_prompt v3 + dept format: org activates on every question",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "e6303dc",
       "message": "pre_prompt v2: Gemini analyzes each question before Claude responds",
       "date": "2026-04-13"
@@ -68,11 +73,6 @@
     {
       "hash": "3b15fd0",
       "message": "Update portfolio company names and add AKSH architecture portfolio",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "aa8d069",
-      "message": "Real-time AI output monitoring via logs/ai_live.log",
       "date": "2026-04-12"
     }
   ]
