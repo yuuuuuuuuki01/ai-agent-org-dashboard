@@ -2,6 +2,16 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-04-13 20:57:20",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-13 20:55:37",
+      "message": "Gmail API 接続エラー: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError(\"HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-04-13 20:52:20",
       "message": "更新完了"
     },
@@ -239,16 +249,6 @@
       "tag": "DASHBOARD",
       "ts": "2026-04-13 19:49:44",
       "message": "デプロイ完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-13 19:48:25",
-      "message": "更新完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-13 19:46:31",
-      "message": "ポーリング完了 (新着なし)"
     }
   ]
 }
