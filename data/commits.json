@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "e6303dc",
+      "message": "pre_prompt v2: Gemini analyzes each question before Claude responds",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "1e0462b",
       "message": "Add environment/constants as physical laws of the organization",
       "date": "2026-04-13"
@@ -68,11 +73,6 @@
     {
       "hash": "aa8d069",
       "message": "Real-time AI output monitoring via logs/ai_live.log",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "0b21b1b",
-      "message": "Add email-to-project pipeline (Codex)",
       "date": "2026-04-12"
     }
   ]
