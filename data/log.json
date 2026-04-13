@@ -2,6 +2,41 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-04-13 19:28:23",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-13 19:26:24",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-13 19:26:24",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-13 19:26:22",
+      "message": "スクリプト処理: 0件 / Gemini処理: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-13 19:26:22",
+      "message": "未読メール取得: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-13 19:26:21",
+      "message": "ポーリング開始 (前回: 2026/04/13 19:21)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-13 19:24:33",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-04-13 19:23:23",
       "message": "更新完了"
     },
@@ -214,41 +249,6 @@
       "tag": "GMAIL",
       "ts": "2026-04-13 18:45:38",
       "message": "スクリプト処理: 1件 / Gemini処理: 4件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-13 18:45:38",
-      "message": "スクリプト処理: gmail:order-generic (【月20時間削減】見積・請求・契約書の作成を一瞬で終わらせる)"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-13 18:45:32",
-      "message": "処理完了: gmail:order-generic"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-13 18:45:32",
-      "message": "Gemini処理: gmail:order-generic (スクリプト未生成)"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-13 18:45:32",
-      "message": "未知パターン: gmail:order-generic (出現2回目 / 閾値3)"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-13 18:45:02",
-      "message": "Gemini処理: gmail:order-generic (スクリプト未生成)"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-13 18:45:02",
-      "message": "未知パターン: gmail:order-generic (出現1回目 / 閾値3)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-13 18:45:00",
-      "message": "未読メール取得: 5件"
     }
   ]
 }
