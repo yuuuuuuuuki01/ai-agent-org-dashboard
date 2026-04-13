@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "c090577",
+      "message": "Add conductor.py: single chat orchestration for entire org",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "b3f3260",
       "message": "Sales pipeline: detect chain/FC stores, route pitch to corporate HQ",
       "date": "2026-04-13"
@@ -68,11 +73,6 @@
     {
       "hash": "e87f30d",
       "message": "Implement script-first doctrine + orchestrator for token reduction",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "e79cdea",
-      "message": "Add GitHub Pages dashboard + parallel branch executor",
       "date": "2026-04-12"
     }
   ]
