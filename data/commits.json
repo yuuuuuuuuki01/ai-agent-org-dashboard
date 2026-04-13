@@ -1,6 +1,16 @@
 {
   "commits": [
     {
+      "hash": "d16c775",
+      "message": "Embed self-evolution as organizational DNA (憲法第12条)",
+      "date": "2026-04-13"
+    },
+    {
+      "hash": "c4b0b3b",
+      "message": "conductor v2: self-evolving command registry",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "c090577",
       "message": "Add conductor.py: single chat orchestration for entire org",
       "date": "2026-04-13"
@@ -63,16 +73,6 @@
     {
       "hash": "2751e57",
       "message": "Fix: remove sensitive key files from git, update .gitignore",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "98140d3",
-      "message": "Token reduction: 5-layer compression pipeline",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "e87f30d",
-      "message": "Implement script-first doctrine + orchestrator for token reduction",
       "date": "2026-04-12"
     }
   ]
