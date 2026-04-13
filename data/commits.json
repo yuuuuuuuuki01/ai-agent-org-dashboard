@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "64cd929",
+      "message": "Add contact enrichment + moriya/aksh campaign placeholders",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "fe4e8ac",
       "message": "Refactor sales pipeline: campaign-driven, multi-product support",
       "date": "2026-04-13"
@@ -68,11 +73,6 @@
     {
       "hash": "0104835",
       "message": "Add email style learning + wire style guide into triage",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "e0248e9",
-      "message": "Add Gmail polling loop (Loop C external trigger)",
       "date": "2026-04-12"
     }
   ]
