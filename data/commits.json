@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "fe4e8ac",
+      "message": "Refactor sales pipeline: campaign-driven, multi-product support",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "2fb1c8a",
       "message": "Add sales automation pipeline: Maps → Gemini analysis → outreach drafts",
       "date": "2026-04-13"
@@ -68,11 +73,6 @@
     {
       "hash": "e0248e9",
       "message": "Add Gmail polling loop (Loop C external trigger)",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "fdf16d5",
-      "message": "Implement autonomous self-improvement loops A/B/C/D",
       "date": "2026-04-12"
     }
   ]
