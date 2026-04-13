@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "b3f3260",
+      "message": "Sales pipeline: detect chain/FC stores, route pitch to corporate HQ",
+      "date": "2026-04-13"
+    },
+    {
       "hash": "64cd929",
       "message": "Add contact enrichment + moriya/aksh campaign placeholders",
       "date": "2026-04-13"
@@ -68,11 +73,6 @@
     {
       "hash": "e79cdea",
       "message": "Add GitHub Pages dashboard + parallel branch executor",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "0104835",
-      "message": "Add email style learning + wire style guide into triage",
       "date": "2026-04-12"
     }
   ]
