@@ -7,12 +7,12 @@
     },
     {
       "label": "morning-briefing",
-      "next": "2時間6分後",
+      "next": "2時間1分後",
       "description": "朝ブリーフィング"
     },
     {
       "label": "collect-stats",
-      "next": "18時間6分後",
+      "next": "18時間1分後",
       "description": "統計収集"
     },
     {
