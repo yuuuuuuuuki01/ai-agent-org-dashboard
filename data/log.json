@@ -2,6 +2,31 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-04-14 17:00:12",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-14 16:58:37",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-14 16:58:37",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-14 16:58:37",
+      "message": "ポーリング開始 (前回: 2026/04/14 16:53)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-14 16:57:38",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-04-14 16:55:11",
       "message": "更新完了"
     },
@@ -224,31 +249,6 @@
       "tag": "GMAIL",
       "ts": "2026-04-14 16:18:20",
       "message": "スクリプト処理: 2件 / Gemini処理: 2件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-14 16:18:20",
-      "message": "スクリプト処理: gmail:order-masu (Re: 【一合缶企画商品に関するお見積りのお願い】株式会社A)"
-    },
-    {
-      "tag": "HANDLER",
-      "ts": "2026-04-14 16:18:20",
-      "message": "order-masu | 升注文処理完了: Re:【一合缶企画商品に関するお見積りのお願い】株式会社Agnavi"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-14 16:18:20",
-      "message": "スクリプト実行: gmail:order-masu → automations/handlers/gmail_order_masu.sh"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-14 16:18:20",
-      "message": "スクリプト処理: gmail:schedule-inquiry ([contact:214] [formrun] 「（団体用）)"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-14 16:18:17",
-      "message": "閾値到達: Codexにハンドラースクリプト生成を依頼 (gmail:schedule-inquiry)"
     }
   ]
 }
