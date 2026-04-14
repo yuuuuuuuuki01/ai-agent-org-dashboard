@@ -3,13 +3,13 @@
     {
       "name": "Gmail Poll",
       "interval": "5分",
-      "last_run": "2026-04-1506:54:55",
+      "last_run": "2026-04-1506:59:57",
       "status": "active"
     },
     {
       "name": "Morning Briefing",
       "interval": "毎朝7:00",
-      "last_run": "2026-04-1407:00:00",
+      "last_run": "2026-04-1507:00:00",
       "status": "active"
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Reform Loop",
       "interval": "毎朝7:00",
-      "last_run": "未実行",
+      "last_run": "2026-04-1507:00:00",
       "status": "active"
     },
     {
@@ -32,6 +32,6 @@
     }
   ],
   "pending_drafts": 5,
-  "pending_proposals": 1,
-  "last_updated": "2026-04-15 06:56"
+  "pending_proposals": 0,
+  "last_updated": "2026-04-15 07:01"
 }
