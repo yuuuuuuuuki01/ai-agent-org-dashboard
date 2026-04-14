@@ -1,6 +1,21 @@
 {
   "commits": [
     {
+      "hash": "eae6e72",
+      "message": "fix: node_modules/dist をgitignoreに追加・キャッシュ削除",
+      "date": "2026-04-14"
+    },
+    {
+      "hash": "89cd29d",
+      "message": "fix: SPAルーティング対応 + base path削除",
+      "date": "2026-04-14"
+    },
+    {
+      "hash": "a108b96",
+      "message": "fix: Vercel framework設定を追加（Vite/React）",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "80b9be6",
       "message": "feat: GitHub Pages対応 — キャンペーン管理UI + Supabseポーリングwatcher",
       "date": "2026-04-14"
@@ -58,21 +73,6 @@
     {
       "hash": "e6303dc",
       "message": "pre_prompt v2: Gemini analyzes each question before Claude responds",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "1e0462b",
-      "message": "Add environment/constants as physical laws of the organization",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "7296df5",
-      "message": "Add observatory log 2026-04-13 and session logging script",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "72382b6",
-      "message": "Define organizational identity via git continuity (第15-17条)",
       "date": "2026-04-13"
     }
   ]
