@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "69d9d63",
+      "message": "sake: prospects検索・エリア/業態フィルタ・URLプレビューモーダル",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "532a79c",
       "message": "sake: 設定管理UI・オンボーディング・送信者情報動的化",
       "date": "2026-04-14"
@@ -69,11 +74,6 @@
       "hash": "2d3cde5",
       "message": "feat: 酒蔵営業自動化システム初期実装",
       "date": "2026-04-14"
-    },
-    {
-      "hash": "d16c775",
-      "message": "Embed self-evolution as organizational DNA (憲法第12条)",
-      "date": "2026-04-13"
     }
   ]
 }
