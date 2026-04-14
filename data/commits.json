@@ -1,6 +1,16 @@
 {
   "commits": [
     {
+      "hash": "e7b9920",
+      "message": "feat: 酒蔵営業自動化システム初期実装 (#1)",
+      "date": "2026-04-14"
+    },
+    {
+      "hash": "2d3cde5",
+      "message": "feat: 酒蔵営業自動化システム初期実装",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "d16c775",
       "message": "Embed self-evolution as organizational DNA (憲法第12条)",
       "date": "2026-04-13"
@@ -63,16 +73,6 @@
     {
       "hash": "2f76110",
       "message": "Add media pipeline: 律音(Rizune) VTuber character + X/Note/Sub-Org automation",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "fc31782",
-      "message": "Launch: 法治AI実験記録 ニュースレター（自律発行システム）",
-      "date": "2026-04-12"
-    },
-    {
-      "hash": "2751e57",
-      "message": "Fix: remove sensitive key files from git, update .gitignore",
       "date": "2026-04-12"
     }
   ]
