@@ -1,6 +1,16 @@
 {
   "commits": [
     {
+      "hash": "532a79c",
+      "message": "sake: 設定管理UI・オンボーディング・送信者情報動的化",
+      "date": "2026-04-14"
+    },
+    {
+      "hash": "72602b9",
+      "message": "sake: 路線から駅を一括追加できるエリア選択UIを追加",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "7abbf83",
       "message": "sake: prospects UI structured data + no-solicitation review flow + campaign template selector",
       "date": "2026-04-14"
@@ -63,16 +73,6 @@
     {
       "hash": "d16c775",
       "message": "Embed self-evolution as organizational DNA (憲法第12条)",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "c4b0b3b",
-      "message": "conductor v2: self-evolving command registry",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "c090577",
-      "message": "Add conductor.py: single chat orchestration for entire org",
       "date": "2026-04-13"
     }
   ]
