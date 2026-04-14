@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "d1e951d",
+      "message": "sake: 路線駅データを全駅対応に拡充",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "6536543",
       "message": "sake: Googleレビュー低評価抽出 + 商材フィットスコア分析",
       "date": "2026-04-14"
@@ -68,11 +73,6 @@
     {
       "hash": "a108b96",
       "message": "fix: Vercel framework設定を追加（Vite/React）",
-      "date": "2026-04-14"
-    },
-    {
-      "hash": "80b9be6",
-      "message": "feat: GitHub Pages対応 — キャンペーン管理UI + Supabseポーリングwatcher",
       "date": "2026-04-14"
     }
   ]
