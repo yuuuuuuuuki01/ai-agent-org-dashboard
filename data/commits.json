@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "a327a63",
+      "message": "sake: マルチテナント対応 — 会社プロフィールをDBで管理しコードから排除",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "d1e951d",
       "message": "sake: 路線駅データを全駅対応に拡充",
       "date": "2026-04-14"
@@ -68,11 +73,6 @@
     {
       "hash": "89cd29d",
       "message": "fix: SPAルーティング対応 + base path削除",
-      "date": "2026-04-14"
-    },
-    {
-      "hash": "a108b96",
-      "message": "fix: Vercel framework設定を追加（Vite/React）",
       "date": "2026-04-14"
     }
   ]
