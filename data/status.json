@@ -3,7 +3,7 @@
     {
       "name": "Gmail Poll",
       "interval": "5分",
-      "last_run": "2026-04-1413:04:13",
+      "last_run": "2026-04-1413:09:14",
       "status": "active"
     },
     {
@@ -33,5 +33,5 @@
   ],
   "pending_drafts": 3,
   "pending_proposals": 0,
-  "last_updated": "2026-04-14 13:08"
+  "last_updated": "2026-04-14 13:13"
 }
