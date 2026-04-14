@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "6d14d72",
+      "message": "ci: Vercel 再デプロイトリガー",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "eae6e72",
       "message": "fix: node_modules/dist をgitignoreに追加・キャッシュ削除",
       "date": "2026-04-14"
@@ -68,11 +73,6 @@
     {
       "hash": "7823420",
       "message": "pre_prompt v3 + dept format: org activates on every question",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "e6303dc",
-      "message": "pre_prompt v2: Gemini analyzes each question before Claude responds",
       "date": "2026-04-13"
     }
   ]
