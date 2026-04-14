@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "80b9be6",
+      "message": "feat: GitHub Pages対応 — キャンペーン管理UI + Supabseポーリングwatcher",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "e7b9920",
       "message": "feat: 酒蔵営業自動化システム初期実装 (#1)",
       "date": "2026-04-14"
@@ -69,11 +74,6 @@
       "hash": "72382b6",
       "message": "Define organizational identity via git continuity (第15-17条)",
       "date": "2026-04-13"
-    },
-    {
-      "hash": "2f76110",
-      "message": "Add media pipeline: 律音(Rizune) VTuber character + X/Note/Sub-Org automation",
-      "date": "2026-04-12"
     }
   ]
 }
