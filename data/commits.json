@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "8fd812e",
+      "message": "fix: Python3.9対応 + Claude→Gemini置換 + base64フィルタリング",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "736fc87",
       "message": "fix: outputDirectory/buildCommand を vercel.json に明示",
       "date": "2026-04-14"
@@ -68,11 +73,6 @@
     {
       "hash": "b3f3260",
       "message": "Sales pipeline: detect chain/FC stores, route pitch to corporate HQ",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "64cd929",
-      "message": "Add contact enrichment + moriya/aksh campaign placeholders",
       "date": "2026-04-13"
     }
   ]
