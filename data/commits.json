@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "hash": "d135242",
+      "message": "sake: Google予約URL個別化 + Calendar自動同期 + アポ追跡",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "69d9d63",
       "message": "sake: prospects検索・エリア/業態フィルタ・URLプレビューモーダル",
       "date": "2026-04-14"
@@ -68,11 +73,6 @@
     {
       "hash": "e7b9920",
       "message": "feat: 酒蔵営業自動化システム初期実装 (#1)",
-      "date": "2026-04-14"
-    },
-    {
-      "hash": "2d3cde5",
-      "message": "feat: 酒蔵営業自動化システム初期実装",
       "date": "2026-04-14"
     }
   ]
