@@ -1,6 +1,21 @@
 {
   "commits": [
     {
+      "hash": "736fc87",
+      "message": "fix: outputDirectory/buildCommand を vercel.json に明示",
+      "date": "2026-04-14"
+    },
+    {
+      "hash": "188463e",
+      "message": "fix: vercel.json framework削除・rewrites のみに統一",
+      "date": "2026-04-14"
+    },
+    {
+      "hash": "f3afac3",
+      "message": "fix: vercel.json SPAルーティング修正",
+      "date": "2026-04-14"
+    },
+    {
       "hash": "6d14d72",
       "message": "ci: Vercel 再デプロイトリガー",
       "date": "2026-04-14"
@@ -58,21 +73,6 @@
     {
       "hash": "64cd929",
       "message": "Add contact enrichment + moriya/aksh campaign placeholders",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "fe4e8ac",
-      "message": "Refactor sales pipeline: campaign-driven, multi-product support",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "2fb1c8a",
-      "message": "Add sales automation pipeline: Maps → Gemini analysis → outreach drafts",
-      "date": "2026-04-13"
-    },
-    {
-      "hash": "7823420",
-      "message": "pre_prompt v3 + dept format: org activates on every question",
       "date": "2026-04-13"
     }
   ]
