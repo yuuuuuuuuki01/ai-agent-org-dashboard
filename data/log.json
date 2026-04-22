@@ -2,6 +2,26 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-04-22 10:34:29",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 10:21:25",
+      "message": "メール取得エラー: Unable to find the server at gmail.googleapis.com"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 10:21:24",
+      "message": "ポーリング開始 (前回: 2026/04/22 10:04)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-22 10:11:57",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-04-22 10:05:25",
       "message": "更新完了"
     },
@@ -228,26 +248,6 @@
     {
       "tag": "ORG_STATE",
       "ts": "2026-04-21 17:37:06",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:32:05",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:27:05",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:22:04",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:17:00",
       "message": "更新完了"
     }
   ]
