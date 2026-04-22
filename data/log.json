@@ -2,6 +2,71 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-04-22 09:40:23",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 09:39:00",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 09:39:00",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 2件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 09:38:55",
+      "message": "スクリプト処理: 2件 / Gemini処理: 18件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 09:38:55",
+      "message": "スクリプト処理: gmail:zohocrm-fax (【FAX】受信FAX通知メール)"
+    },
+    {
+      "tag": "HANDLER",
+      "ts": "2026-04-22 09:38:55",
+      "message": "zohocrm | ZohoCRM FAX通知処理完了: 【FAX】受信FAX通知メール"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 09:38:55",
+      "message": "スクリプト実行: gmail:zohocrm-fax → automations/handlers/gmail_zohocrm.sh"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 09:38:55",
+      "message": "スクリプト処理: gmail:order-generic (Re: 日本酒OEM２種の見積書依頼)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 09:38:50",
+      "message": "閾値到達: Codexにハンドラースクリプト生成を依頼 (gmail:order-generic)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 09:38:50",
+      "message": "未知パターン: gmail:order-generic (出現6回目 / 閾値3)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-22 09:38:37",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 09:38:41",
+      "message": "未読メール取得: 20件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 09:38:40",
+      "message": "ポーリング開始 (前回: 2026/04/15 18:28)"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-04-22 09:35:18",
       "message": "更新完了"
     },
@@ -183,71 +248,6 @@
     {
       "tag": "ORG_STATE",
       "ts": "2026-04-21 13:41:51",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 13:36:51",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 13:31:50",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 13:26:50",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 13:21:49",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 13:16:49",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 13:11:48",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 13:06:48",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 13:01:47",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 12:56:47",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 12:51:47",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 12:46:46",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 12:41:46",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 12:36:46",
       "message": "更新完了"
     }
   ]
