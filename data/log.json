@@ -2,6 +2,156 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-04-22 15:09:14",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 15:08:41",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 15:08:41",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 3件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 15:08:37",
+      "message": "スクリプト処理: 3件 / Gemini処理: 4件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 15:08:37",
+      "message": "スクリプト処理: gmail:schedule-inquiry (予約が完了しました: オンライン用-面談時間1時間 (室橋優)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 15:08:35",
+      "message": "閾値到達: Codexにハンドラースクリプト生成を依頼 (gmail:schedule-inquiry)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 15:08:35",
+      "message": "未知パターン: gmail:schedule-inquiry (出現10回目 / 閾値3)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 15:08:35",
+      "message": "スクリプト処理: gmail:schedule-inquiry (Re: 予約が完了しました: オンライン用-面談時間1時間 )"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 15:08:34",
+      "message": "閾値到達: Codexにハンドラースクリプト生成を依頼 (gmail:schedule-inquiry)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 15:08:34",
+      "message": "未知パターン: gmail:schedule-inquiry (出現9回目 / 閾値3)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 15:08:34",
+      "message": "スクリプト処理: gmail:zohocrm-fax (【FAX】受信FAX通知メール)"
+    },
+    {
+      "tag": "HANDLER",
+      "ts": "2026-04-22 15:08:34",
+      "message": "zohocrm | ZohoCRM FAX通知処理完了: 【FAX】受信FAX通知メール"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 15:08:34",
+      "message": "スクリプト実行: gmail:zohocrm-fax → automations/handlers/gmail_zohocrm.sh"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 15:08:32",
+      "message": "未読メール取得: 7件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 15:08:32",
+      "message": "ポーリング開始 (前回: 2026/04/22 13:05)"
+    },
+    {
+      "tag": "ORG_STATE",
+      "ts": "2026-04-22 13:06:42",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 13:05:00",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 13:05:00",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 13:04:50",
+      "message": "スクリプト処理: 0件 / Gemini処理: 4件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 13:04:49",
+      "message": "未読メール取得: 4件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 13:04:49",
+      "message": "ポーリング開始 (前回: 2026/04/22 11:16)"
+    },
+    {
+      "tag": "ORG_STATE",
+      "ts": "2026-04-22 11:20:12",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 11:16:43",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 11:16:43",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 11:16:42",
+      "message": "スクリプト処理: 1件 / Gemini処理: 5件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 11:16:42",
+      "message": "スクリプト処理: gmail:schedule-inquiry (参加無料!!【Day4】開催中のメタ展ツアーで解説！ メタバ)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 11:16:41",
+      "message": "閾値到達: Codexにハンドラースクリプト生成を依頼 (gmail:schedule-inquiry)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-04-22 11:16:41",
+      "message": "未知パターン: gmail:schedule-inquiry (出現8回目 / 閾値3)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 11:16:39",
+      "message": "未読メール取得: 6件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-22 11:16:38",
+      "message": "ポーリング開始 (前回: 2026/04/22 10:04)"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-04-22 10:34:29",
       "message": "更新完了"
     },
@@ -99,156 +249,6 @@
       "tag": "GMAIL",
       "ts": "2026-04-22 09:54:20",
       "message": "ポーリング開始 (前回: 2026/04/22 09:49)"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-04-22 09:53:51",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-22 09:50:24",
-      "message": "更新完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:49:18",
-      "message": "ポーリング完了 (新着なし)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:49:18",
-      "message": "未読メール取得: 0件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:49:17",
-      "message": "ポーリング開始 (前回: 2026/04/22 09:44)"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-04-22 09:48:49",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-22 09:45:24",
-      "message": "更新完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:44:16",
-      "message": "ポーリング完了 (新着なし)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:44:16",
-      "message": "未読メール取得: 0件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:44:16",
-      "message": "ポーリング開始 (前回: 2026/04/22 09:39)"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-04-22 09:43:45",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-22 09:40:23",
-      "message": "更新完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:39:00",
-      "message": "ポーリング完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:39:00",
-      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 2件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:38:55",
-      "message": "スクリプト処理: 2件 / Gemini処理: 18件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:38:55",
-      "message": "スクリプト処理: gmail:zohocrm-fax (【FAX】受信FAX通知メール)"
-    },
-    {
-      "tag": "HANDLER",
-      "ts": "2026-04-22 09:38:55",
-      "message": "zohocrm | ZohoCRM FAX通知処理完了: 【FAX】受信FAX通知メール"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-22 09:38:55",
-      "message": "スクリプト実行: gmail:zohocrm-fax → automations/handlers/gmail_zohocrm.sh"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:38:55",
-      "message": "スクリプト処理: gmail:order-generic (Re: 日本酒OEM２種の見積書依頼)"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-22 09:38:50",
-      "message": "閾値到達: Codexにハンドラースクリプト生成を依頼 (gmail:order-generic)"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-22 09:38:50",
-      "message": "未知パターン: gmail:order-generic (出現6回目 / 閾値3)"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-04-22 09:38:37",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:38:41",
-      "message": "未読メール取得: 20件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-22 09:38:40",
-      "message": "ポーリング開始 (前回: 2026/04/15 18:28)"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-22 09:35:18",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:57:07",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:52:07",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:47:07",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:42:06",
-      "message": "更新完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-04-21 17:37:06",
-      "message": "更新完了"
     }
   ]
 }
