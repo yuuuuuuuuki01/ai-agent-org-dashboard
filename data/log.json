@@ -2,6 +2,31 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-04-24 07:40:03",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-24 07:39:26",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-24 07:39:26",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-24 07:39:26",
+      "message": "ポーリング開始 (前回: 2026/04/24 07:34)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-24 07:36:32",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-04-24 07:35:03",
       "message": "更新完了"
     },
@@ -224,31 +249,6 @@
       "tag": "BRIEFING",
       "ts": "2026-04-24 07:00:01",
       "message": "Slack確認開始"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-24 07:00:01",
-      "message": "Gmail確認完了"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-24 07:00:01",
-      "message": "Gmail確認開始"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-24 07:00:01",
-      "message": "Observatory観測完了"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-24 07:00:01",
-      "message": "Observatory観測失敗"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-04-24 07:00:00",
-      "message": "Observatory観測開始"
     }
   ]
 }
