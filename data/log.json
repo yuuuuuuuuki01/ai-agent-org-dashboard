@@ -2,6 +2,41 @@
   "entries": [
     {
       "tag": "GMAIL",
+      "ts": "2026-04-24 11:06:18",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-24 11:06:18",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-24 11:06:16",
+      "message": "スクリプト処理: 0件 / Gemini処理: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-24 11:06:16",
+      "message": "未読メール取得: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-04-24 11:06:16",
+      "message": "ポーリング開始 (前回: 2026/04/24 11:01)"
+    },
+    {
+      "tag": "ORG_STATE",
+      "ts": "2026-04-24 11:06:04",
+      "message": "更新完了"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-04-24 11:03:44",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "GMAIL",
       "ts": "2026-04-24 11:01:15",
       "message": "ポーリング完了"
     },
@@ -214,41 +249,6 @@
       "tag": "ORG_STATE",
       "ts": "2026-04-24 10:26:04",
       "message": "更新完了"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-04-24 10:23:30",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-24 10:21:05",
-      "message": "ポーリング完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-24 10:21:05",
-      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 1件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-24 10:21:05",
-      "message": "スクリプト処理: 1件 / Gemini処理: 0件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-04-24 10:21:05",
-      "message": "スクリプト処理: gmail:zohocrm-fax (【FAX】受信FAX通知メール)"
-    },
-    {
-      "tag": "HANDLER",
-      "ts": "2026-04-24 10:21:05",
-      "message": "zohocrm | ZohoCRM FAX通知処理完了: 【FAX】受信FAX通知メール"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-04-24 10:21:05",
-      "message": "スクリプト実行: gmail:zohocrm-fax → automations/handlers/gmail_zohocrm.sh"
     }
   ]
 }
