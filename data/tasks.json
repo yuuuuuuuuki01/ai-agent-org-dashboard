@@ -1,6 +1,11 @@
 {
   "email_drafts": [
     {
+      "file": "draft_20260424_102105_normal_sakagura.md",
+      "priority": "NORMAL",
+      "subject": "RE: 【FAX】受信FAX通知メール"
+    },
+    {
       "file": "draft_20260423_175106_normal_sakagura.md",
       "priority": "NORMAL",
       "subject": "RE: 【FAX】受信FAX通知メール"
@@ -42,11 +47,6 @@
     },
     {
       "file": "draft_20260414_101804_normal_sakagura.md",
-      "priority": "NORMAL",
-      "subject": "RE: 【FAX】受信FAX通知メール"
-    },
-    {
-      "file": "draft_20260413_122451_normal_sakagura.md",
       "priority": "NORMAL",
       "subject": "RE: 【FAX】受信FAX通知メール"
     }
