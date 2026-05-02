@@ -2,6 +2,41 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-05-02 15:20:28",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 15:17:54",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 15:17:54",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 15:17:52",
+      "message": "スクリプト処理: 0件 / Gemini処理: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 15:17:52",
+      "message": "未読メール取得: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 15:17:52",
+      "message": "ポーリング開始 (前回: 2026/05/02 15:12)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-05-02 15:15:54",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-05-02 15:15:24",
       "message": "更新完了"
     },
@@ -214,41 +249,6 @@
       "tag": "REFORM",
       "ts": "2026-05-02 07:00:02",
       "message": "法案受理: bill_20260502_001_submitted_order_masu_20260501_105608.md"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-05-02 07:00:02",
-      "message": "改革ループスキャン開始"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-05-02 07:00:02",
-      "message": "Slack確認完了"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-05-02 07:00:02",
-      "message": "Slack確認開始"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-05-02 07:00:02",
-      "message": "Gmail確認完了"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-05-02 07:00:02",
-      "message": "Gmail確認開始"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-05-02 07:00:02",
-      "message": "Observatory観測完了"
-    },
-    {
-      "tag": "BRIEFING",
-      "ts": "2026-05-02 07:00:02",
-      "message": "Observatory観測失敗"
     }
   ]
 }
