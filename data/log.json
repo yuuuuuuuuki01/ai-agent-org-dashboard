@@ -2,6 +2,41 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-05-02 13:54:03",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 11:13:53",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 11:13:53",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 10:58:46",
+      "message": "スクリプト処理: 0件 / Gemini処理: 4件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 10:58:46",
+      "message": "未読メール取得: 4件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-02 10:58:45",
+      "message": "ポーリング開始 (前回: 2026/05/02 01:55)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-05-02 10:42:53",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-05-02 10:27:35",
       "message": "更新完了"
     },
@@ -214,41 +249,6 @@
       "tag": "GMAIL",
       "ts": "2026-05-01 20:03:57",
       "message": "未読メール取得: 15件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-01 20:03:56",
-      "message": "ポーリング開始 (前回: 2026/05/01 13:37)"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-05-01 18:05:32",
-      "message": "更新完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-01 18:05:26",
-      "message": "Gmail API 接続エラー: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError(\"HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-05-01 13:37:15",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-05-01 13:37:13",
-      "message": "更新完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-01 13:37:06",
-      "message": "ポーリング完了 (新着なし)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-01 13:37:06",
-      "message": "未読メール取得: 0件"
     }
   ]
 }
