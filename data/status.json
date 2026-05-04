@@ -3,25 +3,25 @@
     {
       "name": "Gmail Poll",
       "interval": "5分",
-      "last_run": "2026-05-0402:51:44",
+      "last_run": "2026-05-0412:06:39",
       "status": "active"
     },
     {
       "name": "Morning Briefing",
       "interval": "毎朝7:00",
-      "last_run": "2026-05-0207:00:03",
+      "last_run": "2026-05-0407:00:04",
       "status": "active"
     },
     {
       "name": "Gmail Learn",
       "interval": "毎週月曜",
-      "last_run": "2026-04-2712:32:27",
+      "last_run": "2026-05-0407:00:02",
       "status": "active"
     },
     {
       "name": "Reform Loop",
       "interval": "毎朝7:00",
-      "last_run": "2026-05-0207:00:02",
+      "last_run": "2026-05-0407:00:04",
       "status": "active"
     },
     {
@@ -31,7 +31,7 @@
       "status": "active"
     }
   ],
-  "pending_drafts": 17,
-  "pending_proposals": 1,
-  "last_updated": "2026-05-04 02:51"
+  "pending_drafts": 18,
+  "pending_proposals": 0,
+  "last_updated": "2026-05-04 16:40"
 }
