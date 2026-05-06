@@ -2,6 +2,31 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-05-06 17:01:20",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-06 17:01:18",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-06 17:01:18",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-06 17:01:18",
+      "message": "ポーリング開始 (前回: 2026/05/06 16:56)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-05-06 17:01:12",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-05-06 16:56:20",
       "message": "更新完了"
     },
@@ -224,31 +249,6 @@
       "tag": "GMAIL",
       "ts": "2026-05-06 16:15:39",
       "message": "スクリプト処理: gmail:zohocrm-fax (【FAX】受信FAX通知メール)"
-    },
-    {
-      "tag": "HANDLER",
-      "ts": "2026-05-06 16:15:39",
-      "message": "zohocrm | ZohoCRM FAX通知処理完了: 【FAX】受信FAX通知メール"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-05-06 16:15:38",
-      "message": "スクリプト実行: gmail:zohocrm-fax → automations/handlers/gmail_zohocrm.sh"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-05-06 16:15:33",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-06 16:15:35",
-      "message": "未読メール取得: 15件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-06 16:15:35",
-      "message": "ポーリング開始 (前回: 2026/05/05 01:04)"
     }
   ]
 }
