@@ -3,13 +3,13 @@
     {
       "name": "Gmail Poll",
       "interval": "5分",
-      "last_run": "2026-05-0500:59:55",
+      "last_run": "2026-05-0501:04:56",
       "status": "active"
     },
     {
       "name": "Morning Briefing",
       "interval": "毎朝7:00",
-      "last_run": "2026-05-0407:00:04",
+      "last_run": "2026-05-0607:00:01",
       "status": "active"
     },
     {
@@ -33,5 +33,5 @@
   ],
   "pending_drafts": 18,
   "pending_proposals": 0,
-  "last_updated": "2026-05-05 01:04"
+  "last_updated": "2026-05-06 16:15"
 }
