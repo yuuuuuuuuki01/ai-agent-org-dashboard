@@ -2,6 +2,56 @@
   "entries": [
     {
       "tag": "GMAIL",
+      "ts": "2026-05-07 11:58:23",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-07 11:58:23",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-07 11:58:23",
+      "message": "スクリプト処理: 1件 / Gemini処理: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-07 11:58:23",
+      "message": "スクリプト処理: gmail:schedule-inquiry (予約が完了しました: 酒蔵訪問予約用-面談時間1時間 (善波)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-05-07 11:58:23",
+      "message": "閾値到達: Codexにハンドラースクリプト生成を依頼 (gmail:schedule-inquiry)"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-05-07 11:58:23",
+      "message": "未知パターン: gmail:schedule-inquiry (出現16回目 / 閾値3)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-07 11:58:23",
+      "message": "未読メール取得: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-07 11:58:22",
+      "message": "ポーリング開始 (前回: 2026/05/07 11:53)"
+    },
+    {
+      "tag": "ORG_STATE",
+      "ts": "2026-05-07 11:57:14",
+      "message": "更新完了"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-05-07 11:53:30",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "GMAIL",
       "ts": "2026-05-07 11:53:22",
       "message": "ポーリング完了 (新着なし)"
     },
@@ -198,56 +248,6 @@
     {
       "tag": "ORG_STATE",
       "ts": "2026-05-07 11:22:11",
-      "message": "更新完了"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-05-07 11:18:14",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-07 11:18:08",
-      "message": "ポーリング完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-07 11:18:08",
-      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 1件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-07 11:18:08",
-      "message": "スクリプト処理: 1件 / Gemini処理: 0件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-07 11:18:08",
-      "message": "スクリプト処理: gmail:zohocrm-fax (【FAX】受信FAX通知メール)"
-    },
-    {
-      "tag": "HANDLER",
-      "ts": "2026-05-07 11:18:07",
-      "message": "zohocrm | ZohoCRM FAX通知処理完了: 【FAX】受信FAX通知メール"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-05-07 11:18:07",
-      "message": "スクリプト実行: gmail:zohocrm-fax → automations/handlers/gmail_zohocrm.sh"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-07 11:18:07",
-      "message": "未読メール取得: 1件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-07 11:18:07",
-      "message": "ポーリング開始 (前回: 2026/05/07 11:13)"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-05-07 11:17:11",
       "message": "更新完了"
     }
   ]
