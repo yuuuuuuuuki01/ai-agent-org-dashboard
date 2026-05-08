@@ -2,6 +2,56 @@
   "entries": [
     {
       "tag": "ORG_STATE",
+      "ts": "2026-05-08 18:34:55",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-08 18:34:54",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-08 18:34:54",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-08 18:34:54",
+      "message": "スクリプト処理: 1件 / Gemini処理: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-08 18:34:54",
+      "message": "スクリプト処理: gmail:zohocrm-fax (【FAX】受信FAX通知メール)"
+    },
+    {
+      "tag": "HANDLER",
+      "ts": "2026-05-08 18:34:54",
+      "message": "zohocrm | ZohoCRM FAX通知処理完了: 【FAX】受信FAX通知メール"
+    },
+    {
+      "tag": "ORCH",
+      "ts": "2026-05-08 18:34:54",
+      "message": "スクリプト実行: gmail:zohocrm-fax → automations/handlers/gmail_zohocrm.sh"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-08 18:34:53",
+      "message": "未読メール取得: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-08 18:34:53",
+      "message": "ポーリング開始 (前回: 2026/05/08 18:29)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-05-08 18:33:45",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "ORG_STATE",
       "ts": "2026-05-08 18:29:54",
       "message": "更新完了"
     },
@@ -199,56 +249,6 @@
       "tag": "GMAIL",
       "ts": "2026-05-08 17:59:43",
       "message": "ポーリング完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-08 17:59:43",
-      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 1件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-08 17:59:43",
-      "message": "スクリプト処理: 1件 / Gemini処理: 0件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-08 17:59:43",
-      "message": "スクリプト処理: gmail:order-masu (Re: 【一合缶企画商品に関するお見積りのお願い】株式会社A)"
-    },
-    {
-      "tag": "HANDLER",
-      "ts": "2026-05-08 17:59:43",
-      "message": "order-masu | 升注文処理完了: Re:【一合缶企画商品に関するお見積りのお願い】株式会社Agnavi"
-    },
-    {
-      "tag": "ORCH",
-      "ts": "2026-05-08 17:59:43",
-      "message": "スクリプト実行: gmail:order-masu → automations/handlers/gmail_order_masu.sh"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-08 17:59:43",
-      "message": "未読メール取得: 1件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-08 17:59:43",
-      "message": "ポーリング開始 (前回: 2026/05/08 17:54)"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-05-08 17:58:23",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-05-08 17:54:50",
-      "message": "更新完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-08 17:54:41",
-      "message": "ポーリング完了 (新着なし)"
     }
   ]
 }
