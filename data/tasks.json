@@ -1,6 +1,11 @@
 {
   "email_drafts": [
     {
+      "file": "draft_20260508_175943_urgent_sakagura.md",
+      "priority": "URGENT",
+      "subject": "RE: Re:【一合缶企画商品に関するお見積りのお願い】株式会社Agnavi"
+    },
+    {
       "file": "draft_20260508_141335_normal_sakagura.md",
       "priority": "NORMAL",
       "subject": "RE: 【FAX】受信FAX通知メール"
@@ -44,12 +49,12 @@
       "file": "draft_20260503_091147_urgent_sakagura.md",
       "priority": "URGENT",
       "subject": "RE: [order:101]【新規注文】　5/11鏡開きのお願い"
-    },
-    {
-      "file": "draft_20260502_145744_normal_sakagura.md",
-      "priority": "NORMAL",
-      "subject": "RE: 【FAX】受信FAX通知メール"
     }
   ],
-  "proposals": []
+  "proposals": [
+    {
+      "file": "submitted_order_masu_20260508_175943.md",
+      "title": "升注文処理要求"
+    }
+  ]
 }
