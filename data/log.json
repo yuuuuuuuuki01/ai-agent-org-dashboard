@@ -1,6 +1,31 @@
 {
   "entries": [
     {
+      "tag": "GMAIL",
+      "ts": "2026-05-10 20:38:26",
+      "message": "ポーリング完了 (新着なし)"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-10 20:38:26",
+      "message": "未読メール取得: 0件"
+    },
+    {
+      "tag": "ORG_STATE",
+      "ts": "2026-05-10 20:38:20",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-10 20:38:10",
+      "message": "ポーリング開始 (前回: 2026/05/10 20:31)"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-05-10 20:32:23",
+      "message": "デプロイ完了"
+    },
+    {
       "tag": "ORG_STATE",
       "ts": "2026-05-10 20:31:57",
       "message": "更新完了"
@@ -224,31 +249,6 @@
       "tag": "DASHBOARD",
       "ts": "2026-05-10 19:41:54",
       "message": "デプロイ完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 19:47:27",
-      "message": "Gmail API 接続エラー: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')))"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-05-10 19:44:25",
-      "message": "更新完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 17:52:36",
-      "message": "ポーリング完了 (新着なし)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 17:52:36",
-      "message": "未読メール取得: 0件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 17:52:35",
-      "message": "ポーリング開始 (前回: 2026/05/10 17:47)"
     }
   ]
 }
