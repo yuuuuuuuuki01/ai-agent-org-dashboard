@@ -2,6 +2,51 @@
   "entries": [
     {
       "tag": "GMAIL",
+      "ts": "2026-05-10 19:53:51",
+      "message": "ポーリング完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-10 19:53:51",
+      "message": "下書き作成: 0件 (URGENT: 0件) スクリプト: 0件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-10 19:53:01",
+      "message": "スクリプト処理: 0件 / Gemini処理: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-10 19:53:01",
+      "message": "未読メール取得: 1件"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-10 19:53:00",
+      "message": "ポーリング開始 (前回: 2026/05/10 17:52)"
+    },
+    {
+      "tag": "ORG_STATE",
+      "ts": "2026-05-10 19:50:20",
+      "message": "更新完了"
+    },
+    {
+      "tag": "DASHBOARD",
+      "ts": "2026-05-10 19:41:54",
+      "message": "デプロイ完了"
+    },
+    {
+      "tag": "GMAIL",
+      "ts": "2026-05-10 19:47:27",
+      "message": "Gmail API 接続エラー: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')))"
+    },
+    {
+      "tag": "ORG_STATE",
+      "ts": "2026-05-10 19:44:25",
+      "message": "更新完了"
+    },
+    {
+      "tag": "GMAIL",
       "ts": "2026-05-10 17:52:36",
       "message": "ポーリング完了 (新着なし)"
     },
@@ -204,51 +249,6 @@
       "tag": "GMAIL",
       "ts": "2026-05-10 17:12:16",
       "message": "ポーリング完了 (新着なし)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 17:12:16",
-      "message": "未読メール取得: 0件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 17:12:16",
-      "message": "ポーリング開始 (前回: 2026/05/10 17:07)"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-05-10 17:09:17",
-      "message": "更新完了"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-05-10 17:09:11",
-      "message": "デプロイ完了"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 17:07:15",
-      "message": "ポーリング完了 (新着なし)"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 17:07:15",
-      "message": "未読メール取得: 0件"
-    },
-    {
-      "tag": "GMAIL",
-      "ts": "2026-05-10 17:07:14",
-      "message": "ポーリング開始 (前回: 2026/05/10 17:02)"
-    },
-    {
-      "tag": "ORG_STATE",
-      "ts": "2026-05-10 17:04:17",
-      "message": "更新完了"
-    },
-    {
-      "tag": "DASHBOARD",
-      "ts": "2026-05-10 17:04:07",
-      "message": "デプロイ完了"
     }
   ]
 }
